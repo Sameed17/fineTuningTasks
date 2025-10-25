@@ -1,0 +1,86 @@
+text,sentiment
+"I love this product!",Positive
+"The service was terrible.",Negative
+"This movie is amazing!",Positive
+"I'm so disappointed with their customer support.",Negative
+"Just had the best meal of my life!",Positive
+"The quality of this product is subpar.",Negative
+"I can't stop listening to this song. It's incredible!",Positive
+"Their website is so user-friendly. Love it!",Positive
+"I loved the movie! It was fantastic!",Positive
+"The customer service was terrible.",Negative
+"This book made me feel inspired. Highly recommended!",Positive
+"I'm extremely disappointed with their product quality.",Negative
+"Just had the most amazing vacation! I can't wait to go back.",Positive
+"The food at this restaurant was awful. Never going back again!",Negative
+"I can't stop listening to this song. It's my new favorite!",Positive
+"Their website is so confusing and poorly designed.",Negative
+"I had an incredible experience at the theme park. So much fun!",Positive
+"The product arrived damaged. Very disappointed.",Negative
+"The concert was absolutely breathtaking. Best performance ever!",Positive
+"I had a terrible experience with their customer support.",Negative
+"This movie is a masterpiece! I was blown away.",Positive
+"The customer service at this store is top-notch.",Positive
+"I'm disappointed with the ending of this book. It fell flat.",Negative
+"The product I received was damaged. Unacceptable.",Negative
+"Just had the worst flight experience. Delayed and rude staff.",Negative
+"The hotel stay was absolutely amazing! Luxury at its finest.",Positive
+"The food at this restaurant was outstanding. Highly recommended!",Positive
+"This playlist is my go-to for workouts. Energizing and motivating!",Positive
+"I had a frustrating experience navigating through their website.",Negative
+"The roller coaster ride was thrilling! Heart-pounding excitement!",Positive
+"The product I ordered never arrived. Terrible service.",Negative
+"I can't get enough of this band. Their music is incredible!",Positive
+"I had a great chat with their customer support. Helpful and friendly.",Positive
+"This restaurant has the most delicious food. I can't wait to go back!",Positive
+"The product I purchased broke within a week. Poor quality.",Negative
+"This book is thought-provoking and beautifully written. Highly recommended!",Positive
+"The customer service at this store is exceptional. They went above and beyond.",Positive
+"I had a terrible experience with their technical support. No resolution.",Negative
+"The live concert was electrifying! The band's energy was contagious.",Positive
+"I'm disappointed with the food at this restaurant. It was tasteless.",Negative
+"This song always puts me in a good mood. It's my go-to feel-good track!",Positive
+"The website is slow and unresponsive. Difficult to navigate.",Negative
+"The roller coaster ride was exhilarating! Pure adrenaline rush!",Positive
+"The product I ordered arrived damaged. Very disappointed with the packaging.",Negative
+"I'm captivated by this band's unique sound. They're a breath of fresh air!",Positive
+"The customer support was quick to respond and resolved my issue. Impressed!",Positive
+"This restaurant has the best food. I highly recommend it!",Positive
+"The plot of this movie is confusing and hard to follow.",Negative
+"I'm addicted to this game. It's so much fun!",Positive
+"The customer service at this hotel was terrible. Avoid at all costs.",Negative
+"This book bored me to tears. I couldn't finish it.",Negative
+"I'm impressed with the sound quality of these headphones. Excellent!",Positive
+"The website design is sleek and user-friendly. Easy to navigate.",Positive
+"I had a terrible experience with their delivery service. Late and unprofessional.",Negative
+"The concert was mind-blowing! The band knows how to put on a show.",Positive
+"I'm extremely disappointed with the customer support. No resolution.",Negative
+"The hotel staff were rude and unprofessional. Terrible customer service.",Negative
+"The food at this restaurant was mediocre. Nothing special.",Negative
+"This song always puts me in a nostalgic mood. It reminds me of good times.",Positive
+"The website loading speed is frustratingly slow. Needs improvement.",Negative
+"The food at this cafe exceeded my expectations. Absolutely delicious!",Positive
+"I'm disappointed with the ending of this TV show. It left too many unanswered questions.",Negative
+"This album is a masterpiece. Every song is a work of art!",Positive
+"The website layout is cluttered and confusing. Difficult to find information.",Negative
+"The roller coaster at this theme park is a thrilling experience. A must-try!",Positive
+"The product I ordered never arrived. Poor customer service.",Negative
+"I'm in awe of this artist's talent. Their paintings are breathtaking!",Positive
+"The food at this restaurant was disappointing. Not worth the price.",Negative
+"This playlist is perfect for relaxation. Soothing and calming!",Positive
+"The website navigation is smooth and intuitive. I found what I needed quickly.",Positive
+"The ride on this cruise ship was an unforgettable experience. I loved every moment!",Positive
+"The product I received was of poor quality. It broke after a few uses.",Negative
+"This book kept me hooked from start to finish. A captivating read!",Positive
+"The customer service at this store is outstanding. They truly care about their customers.",Positive
+"I had a frustrating experience with their technical support. No resolution provided.",Negative
+"The product arrived on time and as described.",Neutral
+"It's a decent product, nothing extraordinary.",Neutral
+"The service was adequate, met my basic expectations.",Neutral
+"I have mixed feelings about this purchase.",Neutral
+"The item is functional but not impressive.",Neutral
+"The delivery was standard, no issues.",Neutral
+"The product works as expected.",Neutral
+"Average quality, nothing special.",Neutral
+"The experience was neither good nor bad.",Neutral
+"The product is okay, nothing to complain about.",Neutral
